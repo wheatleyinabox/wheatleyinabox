@@ -2,11 +2,12 @@
 * Need help with career prospects...   
 * Ask me about my writing! :D  
 
-░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages! ░▒▓ ✔ ⏱ ▓▒░   
+░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages_ ░▒▓  
 Javascript, Typescript   
 C++, C   
 Java, Python   
 HTML, CSS   
 React   
-░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ ⏱ ▓▒░   
-(always)   
+░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning_ ░▒▓
+Web Development ~ Frameworks   
+Chrome Extensions   
