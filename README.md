@@ -2,7 +2,7 @@
 Looking for projects to collaborate on!   
 Need help with career prospects...   
 Ask me about my writing! :D  
-`░▒▓ 📦 ~ ▓▒░ Toolbox_ ░▒▓`    
+`░▒▓ 📦 ~ ▓▒░ ToolBox_ ░▒▓`    
 Javascript, Typescript   
 C++, C   
 Java, Python   
