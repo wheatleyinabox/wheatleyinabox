@@ -4,7 +4,8 @@ Javascript, Typescript
 C++, C   
 Java, Python   
 HTML, CSS   
-React   
+React
+
 > ░▒▓ 🌱 📦 🌐 ~ ▓▒░ cat vdeleon-learning_                                ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░   
 (always)   
 Looking for projects to collaborate on!   
