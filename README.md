@@ -1,12 +1,12 @@
 ## welcome to my github page_   
-> ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages! ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░   
+> ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages! ░▒▓ ✔ 03:00:00 AM ⏱ ▓▒░   
 Javascript, Typescript   
 C++, C   
 Java, Python   
 HTML, CSS   
 React
 
-> ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░   
+> ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ 03:00:00 AM ⏱ ▓▒░   
 (always)
 
 > Looking for projects to collaborate on!  
