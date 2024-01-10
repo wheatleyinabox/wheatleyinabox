@@ -1,4 +1,4 @@
-## welcome to my github page_   
+# welcome to my github page_   
 ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages! ░▒▓ ✔ ⏱ ▓▒░   
 Javascript, Typescript   
 C++, C   
@@ -9,6 +9,6 @@ React
 ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ ⏱ ▓▒░   
 (always)
 
-> Looking for projects to collaborate on!  
-> Need help with career prospects...   
-> Ask me about my writing! :D   
+> ## Looking for projects to collaborate on!  
+> ## Need help with career prospects...   
+> ## Ask me about my writing! :D   
