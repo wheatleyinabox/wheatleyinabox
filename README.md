@@ -11,3 +11,4 @@ React
 `░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning_ ░▒▓`   
 Web Development ~ Frameworks   
 Chrome Extensions    
+Application Styling (Obsidian)
