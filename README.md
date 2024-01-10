@@ -1,5 +1,5 @@
 ## welcome to my github page_
-░▒▓ 🌱 📦 🌐 ~ ▓▒░ cat vdeleon-lang-fw-mu_                              ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░
+░▒▓ 🌱 📦 🌐 ~ ▓▒░ cat vdeleon-lang-fw-mu_                              ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░\n
 Javascript, Typescript
 C++, C
 Java, Python
