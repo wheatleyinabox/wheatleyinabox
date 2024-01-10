@@ -1,4 +1,3 @@
-# welcome to my github page_   
 ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Languages! ░▒▓ ✔ ⏱ ▓▒░   
 Javascript, Typescript   
 C++, C   
