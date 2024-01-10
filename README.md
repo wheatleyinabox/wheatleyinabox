@@ -6,7 +6,7 @@ Javascript, Typescript
 C++, C   
 Java, Python   
 HTML, CSS   
-React
-
+React   
+   
 ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ ⏱ ▓▒░   
-(always)
+(always)   
