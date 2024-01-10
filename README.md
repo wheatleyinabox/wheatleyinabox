@@ -9,6 +9,6 @@ React
 > ░▒▓ 🌱 📦 🌐 ~ ▓▒░ Learning? ░▒▓ ✔ 08:49:12 PM ⏱ ▓▒░   
 (always)
 
-> Looking for projects to collaborate on!
-> Need help with career prospects...
+> Looking for projects to collaborate on!  
+> Need help with career prospects...   
 > Ask me about my writing! :D   
