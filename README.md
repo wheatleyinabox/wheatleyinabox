@@ -4,7 +4,7 @@ Need help with career prospects...
 Ask me about my writing! :D  
 `░▒▓ 📦 ~ ▓▒░ ToolBox_ ░▒▓`    
 Javascript, Typescript   
-HTML, CSS   
+HTML, CSS, XML   
 React   
 C++, C   
 Java, Python   
