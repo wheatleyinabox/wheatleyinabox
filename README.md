@@ -1,7 +1,7 @@
 `░▒▓ 🌐 ~ ▓▒░ Overview_ ░▒▓`   
--> Looking for projects to collaborate on!   
--> Need help with career prospects...   
--> Ask me about my writing! :D     
+Looking for projects to collaborate on!   
+Need help with career prospects...   
+Ask me about my writing! :D     
 `░▒▓ 📦 ~ ▓▒░ ToolBox_ ░▒▓`    
 Javascript, Typescript   
 HTML, CSS, XML   
