@@ -1,6 +1,6 @@
 `░▒▓ 🌐 ~ ▓▒░ Overview_ ░▒▓`   
 Looking for projects to collaborate on!   
-Need help with career prospects...   
+Need help with internship/career prospects...   
 Ask me about my writing! :D     
 `░▒▓ 📦 ~ ▓▒░ ToolBox_ ░▒▓`    
 Javascript, Typescript   
