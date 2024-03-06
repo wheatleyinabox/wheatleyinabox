@@ -9,6 +9,6 @@ React
 C++, C   
 Java, Python   
 `░▒▓ 🌱 ~ ▓▒░ Learning_ ░▒▓`   
-Web Development ~ Frameworks   
-Chrome Extensions    
-Application Styling (Obsidian)
+Web Development ~ **Frontend**/Backend   
+Browser Extensions    
+Application Styling (Obsidian & OperaGX)      
