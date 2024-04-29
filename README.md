@@ -11,6 +11,6 @@
 \> Java, Python   
 
 ░▒▓▒░ Learning ░▒▓ ~ 🌱 ▓▒░        
-\> Web Development ~ **Frontend** & Backend   
+\> Web Development ~ Frontend & Backend   
 \> Browser Extensions    
 \> Application Styling (Obsidian & OperaGX)      
