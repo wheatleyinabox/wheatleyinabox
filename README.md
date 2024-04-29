@@ -6,7 +6,7 @@
 ░▒▓▒░ Tool Box ░▒▓ ~ 📦 ▓▒░       
 \> Javascript, Typescript   
 \> HTML, CSS, XML   
-\> React   
+\> React, Flask, SQLAlchemy   
 \> C++, C   
 \> Java, Python   
 
