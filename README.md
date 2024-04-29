@@ -1,6 +1,6 @@
 ░▒▓▒░ Overview ░▒▓ ~ 🌐 ▓▒░         
-\> Looking for projects to collaborate on!   
-\> Need help with internship/career prospects...   
+\> Looking for web projects to collaborate on!   
+\> Need help with internship prospects...   
 \> Ask me about my writing! :D     
 
 ░▒▓▒░ Tool Box ░▒▓ ~ 📦 ▓▒░       
