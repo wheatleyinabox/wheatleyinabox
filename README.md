@@ -10,7 +10,8 @@
 \> C++, C   
 \> Java, Python   
 
-░▒▓▒░ Learning ░▒▓ ~ 🌱 ▓▒░        
+░▒▓▒░ Learning ░▒▓ ~ 🌱 ▓▒░     
+\> Figma Design
 \> Web Development ~ Frontend & Backend   
 \> Browser Extensions    
-\> Application Styling (Obsidian & OperaGX)      
+\> Application Styling (Obsidian)     
