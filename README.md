@@ -11,7 +11,7 @@
 \> Java, Python   
 
 ░▒▓▒░ Learning ░▒▓ ~ 🌱 ▓▒░     
-\> Figma Design
-\> Web Development ~ Frontend & Backend   
+\> Figma Design        
+\> Web Development ~ Frontend & Backend     
 \> Browser Extensions    
 \> Application Styling (Obsidian)     
