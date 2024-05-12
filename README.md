@@ -1,4 +1,4 @@
-<h1>░▒▓▒░ Overview ░▒▓ ~ 🌐 ▓▒░</h1>
+░▒▓▒░ Overview ░▒▓ ~ 🌐 ▓▒░
 \> 🫂 Looking for web projects to collaborate on!   
 \> 📨 Need help with internship prospects...   
 \> 📝 Ask me about my writing! :D     
