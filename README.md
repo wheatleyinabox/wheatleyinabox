@@ -5,7 +5,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 
 🫂 Looking for web projects to collaborate on!       
 📨 Need help with internship prospects!      
-📝 Ask me about my writing! :D      
+📝 Ask me about my writing!        
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vdeleon-ca/)
