@@ -1,4 +1,3 @@
-<style>h1 { border-bottom: 0; } </style>
 # ░▒▓▒░ Overview ░▒▓ ~ 🌐 ▓▒░
 ## Hello I'm Valen! :D
 
