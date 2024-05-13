@@ -9,7 +9,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vdeleon-ca/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]<valeriedeleon4521@gmail.com>
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<valeriedeleon4521@gmail.com>)
 
 ## 📦 Tool Box
 Javascript, Typescript     
