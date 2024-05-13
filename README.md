@@ -1,4 +1,4 @@
-# ░▒▓▒░ Hello I'm Valen! ░▒▓ 🌐 ▓▒░      
+# ░▒▓▒░ Hello I'm Valen! ░▒▓ ~ 🌐 ▓▒░      
 
 ## 📡 About Me
 I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!
