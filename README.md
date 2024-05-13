@@ -13,7 +13,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 
 ## Tool Box ░▒▓ ~ 📦 ▓▒░
 Javascript, Typescript     
-HTML, CSS, XML     
+HTML, CSS    
 React, Flask, SQLAlchemy    
 C++, C    
 Java, Python
