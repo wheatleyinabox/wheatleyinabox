@@ -1,4 +1,4 @@
-![[banner.png]]
+![banner.png]
 ## 📡 About Me
 I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!
 
