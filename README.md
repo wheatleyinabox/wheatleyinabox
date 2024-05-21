@@ -1,5 +1,5 @@
 <div id="banner" align="center">
- <img src="images/banner.png" width="500" alt="Github Banner"/>
+ <img src="images/banner.png" width="1000" alt="Github Banner"/>
 </div>
 
 <h2>📡 About Me!</h2>
