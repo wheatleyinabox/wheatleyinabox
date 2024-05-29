@@ -1,4 +1,4 @@
-<img src="banner.png" width="1000" alt="Github Banner"/>
+<img src="github-banner.png" width="1000" alt="Github Banner"/>
 
 <h2>📡 About Me!</h2>
 <p>I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!</p>
