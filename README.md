@@ -1,6 +1,6 @@
 <img src="github-banner.png" width="1000" alt="Github Banner"/>
-## 📡 About Me!
-I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!</p>
+## 📡 About Me!        
+I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!              
 * 🫂 Looking for web projects to collaborate on!     
 * 📨 Need help with internship prospects!      
 * 📝 Ask me about my writing!  
