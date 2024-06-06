@@ -10,7 +10,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 
 ## 📦 Tool Box
 * **Javascript**, Typescript     
- * WebAudioAPI | Tone.js | D3 Library    
+  * WebAudioAPI | Tone.js | D3 Library    
 * **HTML**, CSS      
 * React, Flask, SQLAlchemy      
 * C++, C      
