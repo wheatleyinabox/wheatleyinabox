@@ -9,7 +9,8 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 <a href="mailto:valeriedeleon4521@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 ## 📦 Tool Box
-> **Javascript**, Typescript         
+> **Javascript**, Typescript     
+> > WebAudioAPI | Tone.js | D3 Library    
 > **HTML**, CSS      
 > React, Flask, SQLAlchemy      
 > C++, C      
