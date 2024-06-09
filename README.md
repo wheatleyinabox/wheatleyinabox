@@ -14,8 +14,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&theme=transparent&hide=Makefile&hide_progress=true&hide_border=true&title_color=ffffff&text_color=ffffff&custom_title=Languages&langs_count=11&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
 ### 🛠 Extra Tools
 * WebAudioAPI | Tone.js | D3 Library
-* Flask | SQLAlchemy       
-* Typescript        
+* Flask | SQLAlchemy              
 * React     
 * Android Studio          
 
