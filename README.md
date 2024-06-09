@@ -8,8 +8,6 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 <a href="https://www.linkedin.com/in/vdeleon-ca/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:valeriedeleon4521@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wheatleyinabox&hide_rank=true&show_icons=true&custom_title=Statistics&theme=transparent)](https://github.com/wheatleyinabox/github-readme-stats)
-
 ## 📦 Tool Box   
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&hide=Makefile&hide_progress=true&custom_title=Languages&theme=transparent&langs_count=10&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
 
@@ -17,7 +15,6 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
   * WebAudioAPI | Tone.js | D3 Library
   * Flask | SQLAlchemy       
   * Typescript
-  * Tailwind CSS  
   * React     
   * Android Studio                 
 
