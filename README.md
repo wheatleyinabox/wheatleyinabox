@@ -11,14 +11,13 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=wheatleyinabox&hide_rank=true&custom_title=My%20Github%20Stats&hide_border=true&theme=transparent&icon_color=ED9121&text_color=ffffff&title_color=ffffff&show_icons=true&hide=issues&show=prs_merged,reviews)](https://github.com/wheatleyinabox/github-readme-stats)
 
 ## 📦 Tool Box   
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&theme=transparent&hide=Makefile&hide_progress=true&hide_border=true&title_color=ffffff&text_color=ffffff&custom_title=Languages&langs_count=10&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
-
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&theme=transparent&hide=Makefile&hide_progress=true&hide_border=true&title_color=ffffff&text_color=ffffff&custom_title=Languages&langs_count=11&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
 ### 🛠 Extra Tools
-  * WebAudioAPI | Tone.js | D3 Library
-  * Flask | SQLAlchemy       
-  * Typescript
-  * React     
-  * Android Studio                 
+* WebAudioAPI | Tone.js | D3 Library
+* Flask | SQLAlchemy       
+* Typescript        
+* React     
+* Android Studio          
 
 ## 🌱 Learning
 * Frontend & Backend Web Development     
