@@ -11,9 +11,9 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wheatleyinabox&hide_rank=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github.com/wheatleyinabox/github-readme-stats)
 
 ## 📦 Tool Box   
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&layout=compact&custom_title=Languages&theme=tokyonight&langs_count=6&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheatleyinabox&hide=Makefile&hide_progress=true&custom_title=Languages&theme=tokyonight&langs_count=10&exclude_repo=Assembly_Code)](https://github.com/wheatleyinabox/github-readme-stats)
 
-## 🛠 Extra Tools
+### 🛠 Extra Tools
   * WebAudioAPI | Tone.js | D3 Library
   * Flask | SQLAlchemy       
   * Typescript
@@ -22,7 +22,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
   * Android Studio                 
 
 ## 🌱 Learning
-> Frontend & Backend Web Development     
-> Figma Design               
-> Obsidian Theme Development  
-> Chrome Extensions        
+* Frontend & Backend Web Development     
+* Figma Design               
+* Obsidian Theme Development  
+* Chrome Extensions        
