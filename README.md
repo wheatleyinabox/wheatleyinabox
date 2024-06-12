@@ -2,7 +2,7 @@
 ## 📡 About Me!        
 I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!                
 * 🫂 Looking for web projects to collaborate on!         
-* 📨 Need help with flexgrid mastery!          
+* 📨 Need help with FlexGrid mastery!          
 * 📝 Ask me about my writing!
   
 <a href="https://www.linkedin.com/in/vdeleon-ca/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
