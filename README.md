@@ -22,5 +22,4 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 * Backend Development
 * UI/UX Design 
 * Obsidian Theme Development 
-* Figma                
-* Chrome Extensions        
+* Figma                    
