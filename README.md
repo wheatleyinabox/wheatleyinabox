@@ -19,7 +19,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 * Android Studio          
 
 ## 🌱 Learning
-* Backend Development
+* Backend and DevOps????
 * UI/UX Design 
-* Obsidian Theme Development 
-* Figma                    
+* Figma
+* how to get gud at web dev 😎
