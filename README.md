@@ -1,8 +1,7 @@
 # Hello! I'm Valen! | ˙ᵕ˙ )ﾉﾞ
 ## 📡 About Me!        
 I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and exploring the world of web development!                
-* 🫂 Looking for web projects to collaborate on!         
-* 📨 Need help with FlexGrid mastery!          
+* 🫂 Looking for web projects to collaborate on!                 
 * 📝 Ask me about my writing!
   
 <a href="https://www.linkedin.com/in/vdeleon-ca/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -15,11 +14,10 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 ### 🛠 Extra Tools
 * WebAudioAPI | Tone.js | D3 Library
 * Flask | SQLAlchemy              
-* React     
+* React | Next.js | Tailwind CSS    
 * Android Studio          
 
 ## 🌱 Learning
 * Backend and DevOps????
-* UI/UX Design 
-* Figma
+* UI/UX Design
 * how to get gud at web dev 😎
