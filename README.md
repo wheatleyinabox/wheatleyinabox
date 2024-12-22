@@ -18,6 +18,6 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 * Android Studio          
 
 ## 🌱 Learning
-* Backend and DevOps????
-* UI/UX Design
+* MERN Tech Stack :O
+* UI/UX Design and Digital Design
 * how to get gud at web dev 😎
