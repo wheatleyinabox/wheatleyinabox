@@ -14,7 +14,7 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 ### 🛠 Extra Tools
 * WebAudioAPI | Tone.js | D3 Library
 * Flask | SQLAlchemy              
-* React | React Native | Next.js | Tailwind CSS    
+* React | React Native | Tailwind CSS    
 * Android Studio          
 
 ## 🌱 Learning
