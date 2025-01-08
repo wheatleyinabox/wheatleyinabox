@@ -14,10 +14,10 @@ I'm a Bachelor's Computer Science student at CalPoly Pomona and I'm learning and
 ### 🛠 Extra Tools
 * WebAudioAPI | Tone.js | D3 Library
 * Flask | SQLAlchemy              
-* React | React Native | Tailwind CSS    
+* React | React Native | TailwindCSS    
 * Android Studio          
 
 ## 🌱 Learning
-* MERN Tech Stack :O
 * UI/UX Design and Digital Design
+* MERN Tech Stack :O
 * how to get gud at web dev 😎
