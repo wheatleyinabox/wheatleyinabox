@@ -1,7 +1,7 @@
 ### Hello! I'm Valen! | ˙ᵕ˙ )ﾉﾞ      
 🐎 Computer Science grad-to-be from CalPolyPomona<br/>
-🌟 Frontend Developer capturing my journey in Web Development<br/>
-🌱 Currently learning PHP, User Experience, and Digital Media!<br/>
+🌟 Frontend Developer passionate in interactive and creative web experiences<br/>
+🌱 Currently learning PHP, UX, and all things digital media!<br/>
 <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
