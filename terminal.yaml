@@ -1,0 +1,38 @@
+name: GitHub Profile Stats Widget
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  update-widget:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch GitHub stats
+        run: |
+          curl -s https://api.github.com/users/wheatleyinabox > user.json
+          curl -s https://api.github.com/users/wheatleyinabox/events/public > events.json
+          
+          # Parse commit counts and create SVG content
+          commit_count=$(jq '[.[] | select(.type=="PushEvent")] | length' events.json)
+          repo_count=$(jq '.public_repos' user.json)
+          follower_count=$(jq '.followers' user.json)
+
+          # Create SVG file with updated content
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='500' height='500'>" > widget.svg
+          echo "<text x='10' y='20'>Commits Today: $commit_count</text>" >> widget.svg
+          echo "<text x='10' y='40'>Repos: $repo_count</text>" >> widget.svg
+          echo "<text x='10' y='60'>Followers: $follower_count</text>" >> widget.svg
+          echo "</svg>" >> widget.svg
+
+      - name: Upload SVG file to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: glitch-widget
+          path: widget.svg
