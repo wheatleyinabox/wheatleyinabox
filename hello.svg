@@ -2,13 +2,6 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-<!-- 
-        Trying to figure out how to make this work dynamically wahhhhh 
-        1. currentColor ❌
-        2. media queries + prefer theme ❌
-        3. Github Actions + svg generation script ❌
-        4. Web hosted SVG but none of them have single char animation like mine 😢
--->      
         @keyframes wave  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
@@ -21,7 +14,7 @@
         }
         .container {
           background-color: transparent;
-          color: #fff;
+          color: #6cff00;
           align-items: center;
           justify-content: left;
           font-size 16px;
