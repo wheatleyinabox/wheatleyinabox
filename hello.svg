@@ -24,6 +24,9 @@
           display: inline-block;
           transform-origin: 70% 70%;
         }
+        h3 {
+          line-height: 35px;
+        }
       </style>
 
       <div class="container">
