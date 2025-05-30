@@ -3,11 +3,11 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         #id { 
-          color: #000000;
+          color: black;
         }
         @media (prefers-color-scheme: dark) {
           #id { 
-            color: #ffffff; 
+            color: white; 
           }
         }  
         @keyframes wave  {
