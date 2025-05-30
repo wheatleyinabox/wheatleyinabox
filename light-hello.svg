@@ -2,14 +2,6 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        #id { 
-          color: black;
-        }
-        @media (prefers-color-scheme: dark) {
-          #id { 
-            color: white; 
-          }
-        }  
         @keyframes wave  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
@@ -23,6 +15,7 @@
         .container {
           background-color: transparent;
           display: flex;
+          color: #fff;
           align-items: center;
           justify-content: left;
           font-size 16px;
@@ -37,7 +30,7 @@
       </style>
 
       <div class="container">
-        <h3 id="text">Hello! I'm Valen! | ˙ᵕ˙ )<span class="wave">ﾉﾞ</span></h3>
+        <h3>Hello! I'm Valen! | ˙ᵕ˙ )<span class="wave">ﾉﾞ</span></h3>
       </div>
     </div>
   </foreignObject>
