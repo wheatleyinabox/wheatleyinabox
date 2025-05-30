@@ -1,5 +1,6 @@
 <div>
-  <img src="hello.svg" alt="Hello! I'm Valen! | ˙ᵕ˙ )ﾉﾞ" />
+  <h3>Hello! I'm Valen!</h3>
+  <img src="hello.svg" alt="| ˙ᵕ˙ )ﾉﾞ" />
 </div>
 💻 Computer Science new grad from CalPolyPomona<br/>
 🎨 Frontend Developer passionate in interactive and creative web experiences<br/>
