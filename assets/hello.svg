@@ -2,6 +2,8 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        /* THEME_CSS */
+        
         @keyframes wave  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
@@ -20,7 +22,6 @@
           font-size 16px;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
-
         .wave {
           animation: wave 1.5s linear -0.5s infinite;
           display: inline-block;
