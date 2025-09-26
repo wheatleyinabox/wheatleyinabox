@@ -1,7 +1,4 @@
 ### Hello! I'm Valen! | ˙ᵕ˙ )ﾉﾞ
-💻 Frontend Web Developer and Webmaster<br/>
+💻 Frontend Web Developer | Webmaster and Consultant<br/>
 🎨 Passionate in creative, interactive web experiences and media!<br/>
-🌱 Learning all the time! But here's some highlights:
-- System adminstration and cybersecurity
-- Web server and app management
-- Experimenting with digital media
+🌱 Learning all the time, anytime!<br/>
